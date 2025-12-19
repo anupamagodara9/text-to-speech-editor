@@ -1,4 +1,4 @@
-"""Text To Speech Talker - An example program using the text-to-speech features of the pyttsx3 module."""
+"""Text To Speech Talker - A example program using the text-to-speech features of the pyttsx3 module."""
 
 import sys
 
