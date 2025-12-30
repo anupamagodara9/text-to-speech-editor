@@ -6,10 +6,6 @@ The program converts user-entered text into spoken audio using the system’s na
 ✨ Features
 - Converts text input into speech in real time
 - Works offline (no internet required)
-- Cross-platform support:
--   Windows → SAPI5
--   macOS → NSSpeechSynthesizer
--   Linux → eSpeak
 
 - Interactive command-line interface
 - Graceful exit using QUIT
